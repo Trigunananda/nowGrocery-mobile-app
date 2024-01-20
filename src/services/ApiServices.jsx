@@ -1,24 +1,3 @@
-// import axios from 'axios';
-
-// const BASE_URL = 'https://api.nowgrocery.com/';
-
-// const axiosInstace = axios.create({
-//   baseURL: BASE_URL,
-//   headers: {
-//     'Content-Type': 'application/json',
-//   },
-// });
-
-// const apiService = {
-//   get: url => axiosInstace.get(`${url}`),
-//   post: (url, data) => axiosInstace.post(`${url}`, data),
-//   put: (url, data) => axiosInstace.put(`${url}`, data),
-//   delete: url => axiosInstace.delete(`${url}`),
-// };
-
-// export default apiService;
-
-
 
 // apiService.js
 import axios from 'axios';
